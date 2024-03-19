@@ -57,3 +57,8 @@ html , body{
     color: #afafaf;
     background-color: #464545;
 }
+.bgtextlast{
+    background-color: #313534e1;
+    color: #ffffff;
+    padding: 20px;
+}
