@@ -19,11 +19,16 @@ html , body{
     background-image: url(./assets/image3.png);
     min-height: 400px;
 }
-.pimg1 , .pimg2 , .pimg3{
+.pimg4{
+    background-image: url(./assets/close-up-image-programer-working-his-desk-office.jpg);
+    min-height: 100%;
+}
+.pimg1 , .pimg2 , .pimg3 , .pimg4{
     position: relative;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 .ptext{
     position: absolute;
@@ -48,8 +53,7 @@ html , body{
     background-color: #f4f4f4;
     color: #666;
 }
-.bgtext{
-    background-color: #313534bd;
-    color: #fff;
-    padding: 20px;
+.section-dark{
+    color: #afafaf;
+    background-color: #464545;
 }
